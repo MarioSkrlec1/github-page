@@ -1,0 +1,16 @@
+{
+  "name": "git-hub-page",
+  "version": "0.0.0",
+  "homepage": "https://github.com/MarioSkrlec1/github-page",
+  "authors": [
+    "Mario Škrlec <whitepostmail@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

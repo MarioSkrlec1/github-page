@@ -1,3 +1,7 @@
 /composer.lock
 /composer.phar
 /.idea
+/public_html/bower_components/jquery/*
+!public_html/bower_components/jquery/dist
+/public_html/bower_components/jquery/dist/*
+!public_html/bower_components/jquery/dist/jquery.min.js
